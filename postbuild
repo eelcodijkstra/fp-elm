@@ -8,3 +8,5 @@ mkdir .local/bin
 mv elm .local/bin/
 
 python -m elm_kernel.install
+
+echo "postBuild complete"
