@@ -1,2 +1,1 @@
-# fp-elm
- 
+# Functioneen programmeren in Elm
