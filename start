@@ -4,3 +4,5 @@ mkdir .local/bin
 mv elm .local/bin/
 
 echo "start complete"
+
+exec "$@"
