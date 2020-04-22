@@ -1,1 +1,1 @@
-# Functioneen programmeren in Elm
+# Functioneel programmeren in Elm
