@@ -11,7 +11,7 @@ python -m elm_kernel.install
 
 git clone https://github.com/eelcodijkstra/elmreplkernel.git
 cd elmreplkernel
-python setup.py
+python setup.py install
 python -m elmrepl_kernel.install
 
 echo "postBuild complete"
